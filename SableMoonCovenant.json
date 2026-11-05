@@ -1,6 +1,6 @@
 {
   "game_id": "SableMoonCovenant",
-  "config_version": 1,
+  "config_version": 0,
   "maintenance": false,
   "features": {
     "summon": true,
